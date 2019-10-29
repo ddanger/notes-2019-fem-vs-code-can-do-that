@@ -3,7 +3,7 @@ Notes from watching frontendmasters.com's workshop [VS Code Can Do That?](https:
 Many of these area opinions of the presenter. I'm just recording the ones I'm interested in (ignoring others).
 
 ## Themes
-Themes to try:Some good themes...
+Themes to try:
 - Light: Hop Light, Night Owl Light
 - Dark: Night Owl, Cobalt 2
 
